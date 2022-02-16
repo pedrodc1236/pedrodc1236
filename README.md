@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on amazing companies
 - 📫 How to reach me: pedrodc1236@gmail.com
 
-https://github-readme-stats.vercel.app/api?username={pedrodc1236}
+<img src="{https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white}" />

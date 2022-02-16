@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on amazing companies
 - 📫 How to reach me: pedrodc1236@gmail.com
 
-https://github-readme-stats.vercel.app/api?username={username}
+https://github-readme-stats.vercel.app/api?username={pedrodc1236}

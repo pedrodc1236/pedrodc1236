@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on amazing companies
 - 📫 How to reach me: pedrodc1236@gmail.com
 
-<a href="https://www.instagram.com/pedro_tavaresdc/">
+<a href="https://www.instagram.com/pedro_tavaresdc/" blank="target">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a/>

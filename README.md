@@ -1,4 +1,4 @@
-<img src="https://images6.alphacoders.com/911/911401.jpg" width="1000" height="300"/>
+<img src="https://pa1.narvii.com/6713/15b311a03b39836412efd784f17bf2244e84f1ba_hq.gif" width="1000" height="300"/>
 
 - 👋 Hi, I’m Pedro
 - 👀 I’m interested in Technology 

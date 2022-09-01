@@ -11,8 +11,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-* ✉️  You can contact me at [pedrodc1236@gmail.com](mailto:pedrodc1236@gmail.com)
-
 ### Skills
 
 <p align="left">

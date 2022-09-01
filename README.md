@@ -5,7 +5,7 @@ Hi! My name is Pedro Tavares
 - 👀 I’m interested in Technology 
 - 💞️ I’m looking to collaborate on amazing companies
 - 📫 How to reach me: pedrodc1236@gmail.com
-- :bust_in_silhouette: Contact phone: (33) 99910-9924
+- :bust_in_silhouette: Contact phone: (33)99910-9924
 
 Fullstack Developer
 -------------------

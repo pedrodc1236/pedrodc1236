@@ -1,6 +1,6 @@
 <img src="https://pa1.narvii.com/6713/15b311a03b39836412efd784f17bf2244e84f1ba_hq.gif" width="1000" height="300"/>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Tavares
+Hi! My name is Pedro Tavares
 =====================================================================================================================================
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently Software Development student at Trybe 

@@ -1,3 +1,5 @@
+<img src="https://images8.alphacoders.com/101/1010926.jpg" width="1000" height="300"/>
+
 - 👋 Hi, I’m Pedro
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently Software Development student at Trybe 
